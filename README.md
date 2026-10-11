@@ -1,7 +1,8 @@
 ## Replication Data and Scripts for Deliberative Distortions
 
 Paper: [BJPS article](https://doi.org/10.1017/S0007123421000168);
-[preprint](http://gsood.com/research/papers/DeliberativeDistortions.pdf).
+[preprint](https://gsood.com/research/papers/DeliberativeDistortions.pdf).
+Archived replication data: [Harvard Dataverse](https://doi.org/10.7910/DVN/D7G1LO).
 
 ### Versions
 
