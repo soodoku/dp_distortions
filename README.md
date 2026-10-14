@@ -124,3 +124,7 @@ loaded via a namespace (and not attached):
 ### Authors
 
 Robert Luskin, Gaurav Sood, James Fishkin, Kyu Hahn
+
+<!-- adjacent:start -->
+
+<!-- adjacent:end -->
