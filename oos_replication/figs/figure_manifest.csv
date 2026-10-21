@@ -47,12 +47,12 @@ UK partisan discussion,UK: mixed-party,Domination: gender,156,extension_distribu
 UK partisan discussion,UK: same-party,Homogenization,188,extension_distributions.pdf,NA
 UK partisan discussion,UK: same-party,Directional polarization,188,extension_distributions.pdf,NA
 UK partisan discussion,UK: same-party,Domination: gender,162,extension_distributions.pdf,NA
-NA,Corrected original,Homogenization,2480,means_policy.pdf,NA
-NA,Corrected original,Directional polarization,2434,means_policy.pdf,NA
-NA,Corrected original,Domination: gender,2433,means_policy.pdf,NA
-NA,Corrected original,Domination: education,2383,means_policy.pdf,NA
-NA,Corrected original,Domination: income,1135,means_policy.pdf,NA
-NA,Corrected original,Domination: combined,972,means_policy.pdf,NA
+NA,Corrected original,Homogenization,2476,means_policy.pdf,NA
+NA,Corrected original,Directional polarization,2426,means_policy.pdf,NA
+NA,Corrected original,Domination: gender,2396,means_policy.pdf,NA
+NA,Corrected original,Domination: education,2373,means_policy.pdf,NA
+NA,Corrected original,Domination: income,1144,means_policy.pdf,NA
+NA,Corrected original,Domination: combined,810,means_policy.pdf,NA
 NA,"Our Budget, Our Economy",Homogenization,1937,means_policy.pdf,NA
 NA,"Our Budget, Our Economy",Directional polarization,1827,means_policy.pdf,NA
 NA,"Our Budget, Our Economy",Domination: gender,969,means_policy.pdf,NA
@@ -150,8 +150,8 @@ NA,Shizuoka,Homogenization,8,means_belief.pdf,NA
 NA,Shizuoka,Directional polarization,7,means_belief.pdf,NA
 NA,Shizuoka,Domination: gender,5,means_belief.pdf,NA
 NA,Shizuoka,Domination: education,8,means_belief.pdf,NA
-NA,Corrected original,p,2434,polarization_definitions.pdf,NA
-NA,Corrected original,p_absolute,2480,polarization_definitions.pdf,NA
+NA,Corrected original,p,2426,polarization_definitions.pdf,NA
+NA,Corrected original,p_absolute,2476,polarization_definitions.pdf,NA
 NA,A1R 2019,p,1854,polarization_definitions.pdf,NA
 NA,A1R 2019,p_absolute,1880,polarization_definitions.pdf,NA
 NA,"Our Budget, Our Economy",p,1827,polarization_definitions.pdf,NA

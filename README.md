@@ -57,8 +57,8 @@ available upstream and are not applied here.
 
 Set `DP_DATA_ROOT` to the pinned checkout or extracted archive;
 [data/sources.csv](data/sources.csv) records exact revisions and SHA-256 hashes.
-Missing or changed inputs stop the build. The current source pin is an upstream
-release candidate and must be published before this branch is merged.
+Missing or changed inputs stop the build. The pinned source correction was published in
+[dp-data #116](https://github.com/soodoku/dp-data/pull/116).
 
 `Rscript scripts/compare_upstream.R` reproduces the same-model comparison between
 the frozen historical inputs, corrected sources, participant eligibility, and

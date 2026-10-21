@@ -41,20 +41,20 @@ Other group discussions,affect,available,d_gender,-0.002724358974358953,0.429487
 Other group discussions,affect,available,d_combined,0.004725085910652936,0.3745704467353952,291,1,1,equal_family_study
 Other group discussions,affect,available,d_education,-0.006455399061032807,0.352112676056338,639,1,1,equal_family_study
 Other group discussions,affect,available,d_income,0.01083984375000003,0.375,1280,1,1,equal_family_study
-Original DPs,policy,paired,h,0.010012939904181893,0.5689327130748699,2480,21,21,equal_family_study
-Original DPs,policy,paired,p,-0.02277380907917896,0.45438766824783167,2434,21,21,equal_family_study
-Original DPs,policy,paired,p_absolute,0.014888587667929876,0.5372626689240835,2480,21,21,equal_family_study
-Original DPs,policy,available,h,0.010796551892625225,0.5820969489194279,2480,21,21,equal_family_study
-Original DPs,policy,available,p,-0.02295346333910283,0.4645497507741572,2431,21,21,equal_family_study
-Original DPs,policy,available,p_absolute,0.015668071807562172,0.5494024633940601,2480,21,21,equal_family_study
-Original DPs,policy,paired,d_gender,0.0036842116795856574,0.4714221286886651,2433,21,21,equal_family_study
-Original DPs,policy,paired,d_education,0.01449805446969374,0.5319243063312834,2383,21,21,equal_family_study
-Original DPs,policy,paired,d_income,0.005731780285511795,0.5163667792620319,1135,11,11,equal_family_study
-Original DPs,policy,paired,d_combined,0.015920536176682067,0.5323267299434807,972,11,11,equal_family_study
-Original DPs,policy,available,d_gender,0.005272519330190809,0.47929326801340333,2436,21,21,equal_family_study
-Original DPs,policy,available,d_education,0.01284820207050466,0.5408510844133138,2385,21,21,equal_family_study
-Original DPs,policy,available,d_income,0.0030460791624454817,0.5137646941900988,1144,11,11,equal_family_study
-Original DPs,policy,available,d_combined,0.015911675461182453,0.5287375694913891,983,11,11,equal_family_study
+Original DPs,policy,paired,h,0.014244788466287784,0.5721032220191884,2476,21,21,equal_family_study
+Original DPs,policy,paired,p,-0.008629914808944317,0.488815895967888,2426,21,21,equal_family_study
+Original DPs,policy,paired,p_absolute,0.020147484729290698,0.557338690073284,2476,21,21,equal_family_study
+Original DPs,policy,available,h,0.01528370292121009,0.5915040728801233,2476,21,21,equal_family_study
+Original DPs,policy,available,p,-0.008941493873946434,0.5039618297024808,2429,21,21,equal_family_study
+Original DPs,policy,available,p_absolute,0.020621982226835398,0.5755982080736982,2476,21,21,equal_family_study
+Original DPs,policy,paired,d_gender,0.0010043576599588276,0.46321217358352845,2396,21,21,equal_family_study
+Original DPs,policy,paired,d_education,0.014439077140028305,0.5311370073745406,2373,21,21,equal_family_study
+Original DPs,policy,paired,d_income,0.002561157795101547,0.4984655675363202,1144,11,11,equal_family_study
+Original DPs,policy,paired,d_combined,0.010207682085964858,0.5245298330736186,810,11,11,equal_family_study
+Original DPs,policy,available,d_gender,0.0030376982736121673,0.4784357597861651,2428,21,21,equal_family_study
+Original DPs,policy,available,d_education,0.014663344910851264,0.5504270843441227,2385,21,21,equal_family_study
+Original DPs,policy,available,d_income,0.0048447117701717664,0.5040006869431761,1144,11,11,equal_family_study
+Original DPs,policy,available,d_combined,0.01259017548850288,0.5320966038227416,822,11,11,equal_family_study
 New DPs,policy,paired,d_gender,0.0019172246016432202,0.4795413669064748,8896,3,2,pairs
 New DPs,policy,paired,h,0.028598676263852357,0.6434773171261124,9214,3,2,pairs
 New DPs,policy,paired,p,0.01830081640254527,0.5897829423372067,9122,3,2,pairs
@@ -97,17 +97,17 @@ Other group discussions,affect,available,d_gender,-0.002724358974358953,0.429487
 Other group discussions,affect,available,d_combined,0.004725085910652936,0.3745704467353952,291,1,1,pairs
 Other group discussions,affect,available,d_education,-0.006455399061032807,0.352112676056338,639,1,1,pairs
 Other group discussions,affect,available,d_income,0.01083984375000003,0.375,1280,1,1,pairs
-Original DPs,policy,paired,h,0.012289850724591189,0.5741935483870968,2480,21,21,pairs
-Original DPs,policy,paired,p,-0.022365708624233774,0.42769104354971244,2434,21,21,pairs
-Original DPs,policy,paired,p_absolute,0.007890874242023347,0.5016129032258064,2480,21,21,pairs
-Original DPs,policy,available,h,0.012849354473943484,0.5858870967741936,2480,21,21,pairs
-Original DPs,policy,available,p,-0.022210725585501453,0.4397367338543809,2431,21,21,pairs
-Original DPs,policy,available,p_absolute,0.008838345608620544,0.5157258064516129,2480,21,21,pairs
-Original DPs,policy,paired,d_gender,0.0019169913027719183,0.46280312371557747,2433,21,21,pairs
-Original DPs,policy,paired,d_education,0.01107427032423586,0.5119597146454049,2383,21,21,pairs
-Original DPs,policy,paired,d_income,0.002937421993993166,0.4995594713656388,1135,11,11,pairs
-Original DPs,policy,paired,d_combined,0.013983383950957108,0.5216049382716049,972,11,11,pairs
-Original DPs,policy,available,d_gender,0.0017542999619123444,0.47126436781609193,2436,21,21,pairs
-Original DPs,policy,available,d_education,0.010042515830050875,0.5232704402515723,2385,21,21,pairs
-Original DPs,policy,available,d_income,0.0015062635914549556,0.5052447552447552,1144,11,11,pairs
-Original DPs,policy,available,d_combined,0.012851849946904416,0.5188199389623601,983,11,11,pairs
+Original DPs,policy,paired,h,0.015115784858334843,0.5702746365105008,2476,21,21,pairs
+Original DPs,policy,paired,p,-0.012652832005065588,0.4579554822753504,2426,21,21,pairs
+Original DPs,policy,paired,p_absolute,0.013484926009604934,0.5234248788368336,2476,21,21,pairs
+Original DPs,policy,available,h,0.01575762605287419,0.5924878836833603,2476,21,21,pairs
+Original DPs,policy,available,p,-0.012675557192556303,0.4812680115273775,2429,21,21,pairs
+Original DPs,policy,available,p_absolute,0.0139950176129294,0.5496768982229402,2476,21,21,pairs
+Original DPs,policy,paired,d_gender,0.0011903670326054818,0.46160267111853087,2396,21,21,pairs
+Original DPs,policy,paired,d_education,0.013333189584364942,0.5195954487989887,2373,21,21,pairs
+Original DPs,policy,paired,d_income,0.0027103287374425802,0.4973776223776224,1144,11,11,pairs
+Original DPs,policy,paired,d_combined,0.014008917000422796,0.5370370370370371,810,11,11,pairs
+Original DPs,policy,available,d_gender,0.0012135837264261036,0.4818780889621087,2428,21,21,pairs
+Original DPs,policy,available,d_education,0.013610467682242278,0.5467505241090147,2385,21,21,pairs
+Original DPs,policy,available,d_income,0.0030992623029113928,0.5026223776223776,1144,11,11,pairs
+Original DPs,policy,available,d_combined,0.014388656675380758,0.5437956204379562,822,11,11,pairs

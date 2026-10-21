@@ -211,18 +211,18 @@ Unavailable dimensions are omitted here and retained as zero eligible pairs in t
 
 |measure  |membership |    mean| pairs| polls|
 |:--------|:----------|-------:|-----:|-----:|
-|H        |available  |  0.0128|  2480|    21|
-|H        |paired     |  0.0123|  2480|    21|
-|P        |available  | -0.0222|  2431|    21|
-|P        |paired     | -0.0224|  2434|    21|
-|D_gender |available  |  0.0018|  2436|    21|
-|D_gender |paired     |  0.0019|  2433|    21|
-|D_educ   |available  |  0.0100|  2385|    21|
-|D_educ   |paired     |  0.0111|  2383|    21|
-|D_income |available  |  0.0015|  1144|    11|
-|D_income |paired     |  0.0029|  1135|    11|
-|D_triple |available  |  0.0129|   983|    11|
-|D_triple |paired     |  0.0140|   972|    11|
+|H        |available  |  0.0158|  2476|    21|
+|H        |paired     |  0.0151|  2476|    21|
+|P        |available  | -0.0127|  2429|    21|
+|P        |paired     | -0.0127|  2426|    21|
+|D_gender |available  |  0.0012|  2428|    21|
+|D_gender |paired     |  0.0012|  2396|    21|
+|D_educ   |available  |  0.0136|  2385|    21|
+|D_educ   |paired     |  0.0133|  2373|    21|
+|D_income |available  |  0.0031|  1144|    11|
+|D_income |paired     |  0.0027|  1144|    11|
+|D_triple |available  |  0.0144|   822|    11|
+|D_triple |paired     |  0.0140|   810|    11|
 
 The original uses attitude indices, while these sources use individual items.
 Differences therefore combine setting, sample, timing and measurement; they are
