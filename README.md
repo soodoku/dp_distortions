@@ -1,7 +1,8 @@
 ## Replication Data and Scripts for Deliberative Distortions
 
 Paper: [BJPS article](https://doi.org/10.1017/S0007123421000168);
-[preprint](http://gsood.com/research/papers/DeliberativeDistortions.pdf).
+[preprint](https://gsood.com/research/papers/DeliberativeDistortions.pdf).
+Archived replication data: [Harvard Dataverse](https://doi.org/10.7910/DVN/D7G1LO).
 
 ### Versions
 
@@ -143,3 +144,17 @@ loaded via a namespace (and not attached):
 ### Authors
 
 Robert Luskin, Gaurav Sood, James Fishkin, Kyu Hahn
+
+<!-- adjacent:start -->
+
+## 🔗 Adjacent Repositories
+
+- [soodoku/dp_misinformation](https://github.com/soodoku/dp_misinformation) — Deliberation and Misinformation \(Luskin and Sood\). Data, code, and manuscript.
+- [soodoku/dp_data](https://github.com/soodoku/dp_data) — Deliberative Poll data
+- [soodoku/dp_nireland](https://github.com/soodoku/dp_nireland) — Replication Data And Scripts for How Can You Think That?: Deliberation and the Learning of Opposing Arguments
+- [soodoku/dp_learning](https://github.com/soodoku/dp_learning) — Deliberation and Learning: Evidence From Deliberative Polls \(Luskin, Sood, Fishkin\)
+- [soodoku/partisan_campaigns](https://github.com/soodoku/partisan_campaigns) — Coming to Dislike Your Opponents
+
+_Powered by [Adjacent](https://github.com/gojiplus/adjacent)_
+
+<!-- adjacent:end -->
