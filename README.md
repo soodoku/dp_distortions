@@ -77,8 +77,8 @@ To check the audit comparisons against the saved outputs:
 Rscript scripts/checks.R
 ```
 
-This single audit script verifies the main published-versus-current comparison
-and provenance coverage, then computes the missing-mean, reference-tie,
+This single audit script verifies the published-versus-historical-corrected comparison
+and historical provenance coverage, then computes the missing-mean, reference-tie,
 duplicate-record, aggregation, and combined-predictor comparisons. It reuses the
 analysis definitions and reads historical poll summaries from `paper-2022` using
 Git. Run `git fetch --tags` first if that tag is missing from your clone.
