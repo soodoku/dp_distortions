@@ -230,7 +230,7 @@ scale, normalized as `(rating - 1) / 4`, with neutral midpoint 0.5. S1–10 conc
 nuclear-restart decision procedures (policy); S11 concerns the accuracy of information
 from restart proponents (belief), reported separately. These are not eleven measures
 of support for restarting nuclear power. Source rows identify participants within
-the wide file; no cross-wave identity matching is needed. Gender uses the labelled
+the wide file; no cross-wave identity matching is needed. Gender uses the labeled
 male indicator; education uses the documented ordered categories and the event
 median before item missingness. Income and combined advantage are unavailable.
 The release contains the 65 face-to-face participants, not the 51 online participants
@@ -251,7 +251,7 @@ of unique eligible studies. Raw search responses are cached in `data/`.
 Refreshing appends distinct search records and preserves the manually recorded
 web and citation searches; unrecorded web result totals remain missing.
 The source register is the curated screening record, with specific missing
-requirements for deferred candidates. The Stanford catalogue and the
+requirements for deferred candidates. The Stanford catalog and the
 [multidisciplinary review](https://doi.org/10.3389/fpos.2023.1127372) provide
 discovery leads, not respondent datasets. National archive and author-site
 screening is represented by the linked source records; this log does not claim a
@@ -322,7 +322,7 @@ review identified participant overlap, changing wave membership, missing group
 identifiers, and sparse independent events as principal risks.
 
 Search public material available through September 11, 2026: Stanford's project
-catalogue, Dataverse, OSF, ICPSR, national archives, research-team websites, and
+catalog, Dataverse, OSF, ICPSR, national archives, research-team websites, and
 deliberation registries. Search variants of deliberation, deliberative poll,
 mini-public, citizens' assembly/jury, discussion experiment, and polarization;
 follow references and citing studies from reviews and eligible studies. Record
